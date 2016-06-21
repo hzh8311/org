@@ -1,7 +1,8 @@
 * Face Alignment Across Large Pose
 ** outline
-[[http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhu_Face_Alignment_Across_CVPR_2016_paper.html][Here is the link]]
-[toc]
+[[http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhu_Face_Alignment_Across_CVPR_2016_paper.html][Here is the link
+]]
+[TOC]
 ** 3D Dense Face Alignment(3DDFA)
 #+CAPTION: Net sturcture.
 #+LABLE: fig1
