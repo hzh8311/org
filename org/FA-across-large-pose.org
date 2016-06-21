@@ -6,4 +6,4 @@
 ** 3D Dense Face Alignment(3DDFA)
 #+CAPTION: Net sturcture.
 #+LABLE: fig1
-[[file:~/Pictures/screenshot/3DDFA.png]]
+[[http://7xs9af.com1.z0.glb.clouddn.com/screenshot/3DDFA.png]]
