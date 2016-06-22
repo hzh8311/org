@@ -1,7 +1,9 @@
 * Unconstrained Face Alignment via Cascaded Compositional Learning (CCL)
 [[http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhu_Unconstrained_Face_Alignment_CVPR_2016_paper.html][CVPR2016 link]] by Shizhen Zhu et al. @CUHK
 ** CCL
+[[http://7xs9af.com1.z0.glb.clouddn.com/screenshot/Unconstraint-FA.png]]
 - Domain Partition
+Followed [[chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=http%3A%2F%2Fwww.cv-foundation.org%2Fopenaccess%2Fcontent_cvpr_2015%2Fpapers%2FXiong_Global_Supervised_Descent_2015_CVPR_paper.pdf][Global SDM]]
 - Inference
 - learning
 *** Compositional Shape Estimation
