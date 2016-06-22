@@ -7,7 +7,7 @@
 #+LABLE: fig1
 [[http://7xs9af.com1.z0.glb.clouddn.com/screenshot/3DDFA.png]]
 *** 3D Morphable Model
-S = S^- + A_(id)\alpha{}_(id)+A_(exp)\alpha{}_{exp}
+S = S^{-} + A_{id}\alpha{}_{id}+A_{exp}\alpha{}_{exp}
 *** Network Structure
 *** Projected Normalized Coordinate Code (PNCC)
 This is the features for train. Compare with NCC
