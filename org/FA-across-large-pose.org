@@ -1,13 +1,15 @@
-#+TITLE Face Alignment Across Large Pose
+* Face Alignment Across Large Pose
 ** outline
-[[http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhu_Face_Alignment_Across_CVPR_2016_paper.html][Here is the link
-]]
-\tabelofcontent
+[[http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhu_Face_Alignment_Across_CVPR_2016_paper.html][Here is the link]]
+
 ** 3D Dense Face Alignment(3DDFA)
 #+CAPTION: Net sturcture.
 #+LABLE: fig1
 [[http://7xs9af.com1.z0.glb.clouddn.com/screenshot/3DDFA.png]]
 *** 3D Morphable Model
+#+BEGIN_LaTeX
+S = S^- + A_(id)\alpha_(id)+A_(exp)\alpha_{exp}
+#+END_LaTeX
 *** Network Structure
 *** Projected Normalized Coordinate Code (PNCC)
 This is the features for train. Compare with NCC
