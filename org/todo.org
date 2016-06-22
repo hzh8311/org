@@ -1,0 +1,12 @@
+| 课程       | 小项目 | 大项目        | Due      |
+|------------+--------+---------------+----------|
+| DIA        | None   | Final Project |          |
+| 图像理解   | 0/3    | Final Project |          |
+| 计算机视觉 | None   | Final Project |          |
+| 并行计算   | 0/5    | Final Report  | July 1st |
+|------------+--------+---------------+----------|
+|            |        |               |          |
+
+* Project schedule
+** TODO DIA final project
+SCHEDULE: 
