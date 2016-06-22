@@ -8,7 +8,7 @@
 [[http://7xs9af.com1.z0.glb.clouddn.com/screenshot/3DDFA.png]]
 *** 3D Morphable Model
 #+BEGIN_LaTeX
-S = S^- + A_(id)\alpha_(id)+A_(exp)\alpha_{exp}
+S = S^- + A_(id)\alpha{}_(id)+A_(exp)\alpha{}_{exp}
 #+END_LaTeX
 *** Network Structure
 *** Projected Normalized Coordinate Code (PNCC)
