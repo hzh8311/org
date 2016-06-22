@@ -1,0 +1,8 @@
+* Unconstrained Face Alignment via Cascaded Compositional Learning (CCL)
+CVPR2016 cuhk Shizhen Zhu et al.
+** CCL
+- Domain Partition
+- Inference
+- learning
+*** Compositional Shape Estimation
+*** Learning a suitable feature mapping
