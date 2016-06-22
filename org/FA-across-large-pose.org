@@ -1,4 +1,4 @@
-* Face Alignment Across Large Pose
+#+TITLE Face Alignment Across Large Pose
 ** outline
 [[http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhu_Face_Alignment_Across_CVPR_2016_paper.html][Here is the link
 ]]
@@ -7,3 +7,11 @@
 #+CAPTION: Net sturcture.
 #+LABLE: fig1
 [[http://7xs9af.com1.z0.glb.clouddn.com/screenshot/3DDFA.png]]
+*** 3D Morphable Model
+*** Network Structure
+*** Projected Normalized Coordinate Code (PNCC)
+This is the features for train. Compare with NCC
+*** Cost Function
+- Parameter Distance Cost(PDC)
+- Vertex Distance Cost (VDC)
+- Weighted PDC
